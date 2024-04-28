@@ -10,8 +10,14 @@ header{
    
 }
 
+.grid {
+    display: grid;
+    align-items: center;
+}
+
   main{
     display: grid;
+   
     grid-template-columns: 1fr;
     gap: 1rem;
     width: 640px;
