@@ -1,0 +1,20 @@
+@media screen and (min-width: 600px) {
+    header {
+        background-color: black;
+        color: white;
+    }
+
+    main {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    
+    }
+
+
+ 
+
+    section{
+        background-color: white;
+    }
+}

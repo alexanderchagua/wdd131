@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+
+header{
+    width: 640px;
+    margin: 1rem auto;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    background-color:  #90bbe9;
+   
+}
+
+  main{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    width: 640px;
+    margin: 1rem auto;
+    border: 5px;
+    padding: 10px;
+    background-color:  #90bbe9;
+    
+  }
+
+footer{
+    width: 640px;
+    margin: 1rem auto;
+    border: 5px;
+    padding: 10px;
+    background-color:  #90bbe9;
+  }
+
+section{
+    padding: 30px;
+    background-color: white;
+  }
